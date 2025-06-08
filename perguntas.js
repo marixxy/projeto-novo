@@ -1,23 +1,24 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Fisica',
+    'O que é uma onda?',
+    ' é uma pertubação que se propaga através de um meio, transportando energia sem transportar matéria'
+)
+
+criaCartao(
+    'Curiosidades',
+    'Qual a montanha mais alta do mundo?',
+    'A montanha mais alta é o Monte Everest. '
+)
+
+criaCartao(
+    'Ciencias',
+    'Qual o maior planeta do sistema solar?',
+    'O maior planeta é Júpiter.'
+
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Quantos continentes existem?',
+    'existem 6 continentes.'
 )
